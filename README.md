@@ -1,4 +1,7 @@
-### Hi there 👋
+### 
+Hi, I'm a sports nutritionist finishing up my PhD in exercise physiology, applying data science in my work with elite athletes. My primary interest is the intersection between nutrition, training load, and training adaptations. I'm on here to learn and share code!
+
+Here is my [research website](http://jeff-rothschild.netlify.app).
 
 <!--
 **Jeffrothschild/Jeffrothschild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
